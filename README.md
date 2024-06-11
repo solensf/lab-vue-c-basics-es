@@ -23,9 +23,7 @@ Aquí están las cosas que tendrás que lograr durante este laboratorio:
 - Abre el LAB y comienza:
 
   ```bash
-  $ cd lab-vue-basics-es
-  $ npm install
-  $ npm run dev
+  $ cd lab-vue-c-basics-es
   ```
 
 ## La presentación
